@@ -12,4 +12,8 @@ ini adalah hasil ssanya
 
 di file ini berisikan kode program yang akan menampilkan judul atas web, biasanya ini akan menjadi kebiasaan yang biasanya di gunakan oleh para programer dan desinger untuk memberi nama web mereka
 
+<img width="778" height="135" alt="image" src="https://github.com/user-attachments/assets/4b747dc6-bf12-47d4-877b-9203357c630c" />
+
+
 # 3. body.html
+
