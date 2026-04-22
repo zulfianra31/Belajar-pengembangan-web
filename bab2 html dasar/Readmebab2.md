@@ -8,4 +8,8 @@ di file ini kita akan melihat isi dari contoh pembuatan html yang dimana isinya 
 <img width="1892" height="691" alt="Screenshot 2026-04-21 124146" src="https://github.com/user-attachments/assets/8dd95c20-2c58-493f-b051-6df0a65a656b" />
 ini adalah hasil ssanya
 
+# 2. title.html
 
+di file ini berisikan kode program yang akan menampilkan judul atas web, biasanya ini akan menjadi kebiasaan yang biasanya di gunakan oleh para programer dan desinger untuk memberi nama web mereka
+
+# 3. body.html
