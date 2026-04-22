@@ -19,5 +19,6 @@ di file ini berisikan kode program yang akan menampilkan judul atas web, biasany
 
 nah di sini bisa di bilang menjadi hal penting dari web itu, di body ini ibarat dia itu isi dari semua yang ada di dalam web itu, maka dari itu body ini akan menjadi tempat utama dari isi web dan tempat menaruh apapun yang akan di tampilkan di sini
 
+<img width="1346" height="264" alt="image" src="https://github.com/user-attachments/assets/33fe5115-62fe-47bc-adf0-48a01dc47122" />
 
 
