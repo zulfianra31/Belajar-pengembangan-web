@@ -22,7 +22,7 @@ nah di sini bisa di bilang menjadi hal penting dari web itu, di body ini ibarat 
 <img width="1346" height="264" alt="image" src="https://github.com/user-attachments/assets/33fe5115-62fe-47bc-adf0-48a01dc47122" />
 
 # 4. heading.html
-bagian ini menjadi tempat kita menuliskan text apapun yang kita mau dan ukurannya pun menyesuaikan dari kecil 1 higga besar seterusnya
+bagian ini menjadi tempat kita menuliskan text apapun yang kita mau dan ukurannya pun menyesuaikan dari besar 1 higga kecil seterusnya
 
 <img width="1448" height="639" alt="image" src="https://github.com/user-attachments/assets/3bd584bb-fdf4-4550-862f-e3381dc0ddf3" />
 
