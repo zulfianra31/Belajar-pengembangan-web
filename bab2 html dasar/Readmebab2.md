@@ -17,3 +17,7 @@ di file ini berisikan kode program yang akan menampilkan judul atas web, biasany
 
 # 3. body.html
 
+nah di sini bisa di bilang menjadi hal penting dari web itu, di body ini ibarat dia itu isi dari semua yang ada di dalam web itu, maka dari itu body ini akan menjadi tempat utama dari isi web dan tempat menaruh apapun yang akan di tampilkan di sini
+
+
+
