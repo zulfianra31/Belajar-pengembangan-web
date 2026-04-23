@@ -61,3 +61,34 @@ gaya tuslisan yang kita mau apapun itu dan akhirnya kita bisa mendapatkan gaya y
 <img width="1031" height="310" alt="image" src="https://github.com/user-attachments/assets/c5c558bb-ca03-4d38-8396-049e6a2a6cec" />
 
 # 9.warnafont.html
+
+disini kita hanya membahas warna yang akan menjadi warna pada text kita, kita bisa mengetikkan nama warnanya atau kode warnanya juga
+
+<img width="935" height="312" alt="image" src="https://github.com/user-attachments/assets/03725618-e8f9-4b2d-9bbb-a02d063ad8b2" />
+
+# 10.tampilantext.html
+
+disini kita akan melihat contoh tampilan yang biasanya di gunakan pada penulisan seperni tebal, miring garis bawah dan lain lain
+bahkan jenis tampilannya pun bisa kita gabung gabungkan
+
+<img width="876" height="374" alt="image" src="https://github.com/user-attachments/assets/975afe88-6047-48ac-a302-7c8a5b404016" />
+
+# 11.marker.html
+
+disini kita dapat menandai tulisan yang ingin kita tandai agar dapat berbeda sendiri
+
+<img width="1032" height="431" alt="image" src="https://github.com/user-attachments/assets/38d4dc4b-5c8e-4798-b317-25a5a1980e6e" />
+
+# 12.textbesardankecil.html
+
+disini akan menjadi alternatif lain apabila anda merasa ingin menggunakan cara lain, namun cara in terlihat kurang dan tidak biasa bervariasi sizenya
+
+<img width="917" height="352" alt="image" src="https://github.com/user-attachments/assets/472e547d-629f-41e0-8a25-042a8a02b312" />
+
+# 13.textgaris.html
+
+disini kita akan melihat beberapa tulisan yang diberikan garis mau itu di bawahnya atau didalam tulisannya
+
+<img width="772" height="298" alt="image" src="https://github.com/user-attachments/assets/82c0ae22-9bd9-439c-99f2-330ff7914484" />
+
+
