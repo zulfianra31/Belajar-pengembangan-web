@@ -53,3 +53,9 @@ di sini kita bisa mengatur ukuran font yang bisa kita taruh di dalam web kita, b
 
 <img width="829" height="397" alt="image" src="https://github.com/user-attachments/assets/891ec06d-d717-40b4-b91d-1dc5c7cfa37f" />
 
+# 8.fontgaya.html
+
+sebelumnya kitab membahas ukuran sekarang kita membahas gaya tulisannya, dimana berbeda dengan ukuran yang dia menuliskan size kalau kita langsung menuliskan
+gaya tuslisan yang kita mau apapun itu dan akhirnya kita bisa mendapatkan gaya yang kita mau
+
+<img width="1031" height="310" alt="image" src="https://github.com/user-attachments/assets/c5c558bb-ca03-4d38-8396-049e6a2a6cec" />
