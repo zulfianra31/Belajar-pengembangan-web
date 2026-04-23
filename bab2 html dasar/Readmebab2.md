@@ -59,3 +59,5 @@ sebelumnya kitab membahas ukuran sekarang kita membahas gaya tulisannya, dimana 
 gaya tuslisan yang kita mau apapun itu dan akhirnya kita bisa mendapatkan gaya yang kita mau
 
 <img width="1031" height="310" alt="image" src="https://github.com/user-attachments/assets/c5c558bb-ca03-4d38-8396-049e6a2a6cec" />
+
+# 9.warnafont.html
