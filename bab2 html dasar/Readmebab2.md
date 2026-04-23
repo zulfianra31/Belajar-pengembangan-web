@@ -40,4 +40,10 @@ left sebagai tambahan kalau mau, tapi tidak juga tidak apa karena memang sudah d
 
 <img width="1919" height="470" alt="image" src="https://github.com/user-attachments/assets/57a86c61-fa8a-4bbf-aed2-d65d744b04d9" />
 
+# 6.br.html
+
+di sini akan menjadi jarak antara masing masing baris atau jarak lainnya, semisalnya paragraf satu ingin jarak 2 baris maka berikan saja 2 br maka
+akan berjarak 2 baris nanti.
+
+<img width="677" height="488" alt="image" src="https://github.com/user-attachments/assets/0d749ced-46a6-43ae-ac9a-4c48bae0ca37" />
 
