@@ -26,3 +26,18 @@ bagian ini menjadi tempat kita menuliskan text apapun yang kita mau dan ukuranny
 
 <img width="1448" height="639" alt="image" src="https://github.com/user-attachments/assets/3bd584bb-fdf4-4550-862f-e3381dc0ddf3" />
 
+# 5. paragraf.html
+
+di sini biasanya kita melakukan penulisan berupa paragraf panjang yang akan di gunakan untuk penjelasan dan juga semacamnya,
+1. di paragraf pertama itu kita menaruh paragraf yang biasanya kita tulis kita tidak usah menambahkan apa apa atau kita bisa menambahkan
+left sebagai tambahan kalau mau, tapi tidak juga tidak apa karena memang sudah default
+2. di paragraf kedua itu kita menaruh paragraf di bagian tengah apabila kita ingin membuatnya menarih dan tidak perlu repot repot di sebelah kiri
+   apabila tidak panjang, tambahannya kira menggunakan "align = "center"" yang nanti bisa membuatnya ketengah secara otomatis
+3. lalu ada di sebelah kanan juga yang dimana kita bisa menaruhnya apabilaterasa kurang bagus atau mau membuat perbedaan, nah kita hanya tinggal
+   menambahkan "align = "right"" yang dimana dia akan berpindah di sebelah kanan secara otomatis
+4. terakhir ada penyesuaian yang dimana biasanya kita gunakan apabila terasa kurang nyaman nanti dia akan menyesuaikan spasinya, kita hanya tinggal
+   menambahkan "align = "justify"" maka dia akan otomatis merapihkan
+
+<img width="1919" height="470" alt="image" src="https://github.com/user-attachments/assets/57a86c61-fa8a-4bbf-aed2-d65d744b04d9" />
+
+
