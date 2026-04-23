@@ -47,3 +47,4 @@ akan berjarak 2 baris nanti.
 
 <img width="677" height="488" alt="image" src="https://github.com/user-attachments/assets/0d749ced-46a6-43ae-ac9a-4c48bae0ca37" />
 
+# 7.font.html
