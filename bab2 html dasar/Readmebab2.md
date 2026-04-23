@@ -48,3 +48,8 @@ akan berjarak 2 baris nanti.
 <img width="677" height="488" alt="image" src="https://github.com/user-attachments/assets/0d749ced-46a6-43ae-ac9a-4c48bae0ca37" />
 
 # 7.font.html
+
+di sini kita bisa mengatur ukuran font yang bisa kita taruh di dalam web kita, bisa kita ubah ubah ukurannnya dari kecil hingga ke besar
+
+<img width="829" height="397" alt="image" src="https://github.com/user-attachments/assets/891ec06d-d717-40b4-b91d-1dc5c7cfa37f" />
+
