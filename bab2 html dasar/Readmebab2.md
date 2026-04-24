@@ -97,3 +97,10 @@ biasanya ini digunakan untuk menuliskan simbol atau rumus sebuah tampilan web
 
 <img width="983" height="469" alt="image" src="https://github.com/user-attachments/assets/5fc96ff0-8d98-4cea-85ce-3bcf7a0ea936" />
 
+# 15.gambar.html
+
+jadi disini kita menaruh gambar dengan menggunakan format img dan kita bisa menaruh ukurannya menggunakan weight dan height yang kita mau
+
+<img width="863" height="627" alt="image" src="https://github.com/user-attachments/assets/aee2ce46-4614-43e1-9773-50edb2bd1158" />
+
+# 16.link.html
