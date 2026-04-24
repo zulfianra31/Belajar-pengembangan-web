@@ -104,3 +104,9 @@ jadi disini kita menaruh gambar dengan menggunakan format img dan kita bisa mena
 <img width="863" height="627" alt="image" src="https://github.com/user-attachments/assets/aee2ce46-4614-43e1-9773-50edb2bd1158" />
 
 # 16.link.html
+
+di sini kita bisa menaruh link apapun di dalam text atau apasaja yang kita mau agar saat di tekan nanti dia akan berpindah
+
+<img width="762" height="339" alt="image" src="https://github.com/user-attachments/assets/3af94ca5-a4fe-4a2f-8b37-f2ad81ed3045" />
+
+# 17.tabel.html
