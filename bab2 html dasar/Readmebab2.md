@@ -91,4 +91,9 @@ disini kita akan melihat beberapa tulisan yang diberikan garis mau itu di bawahn
 
 <img width="772" height="298" alt="image" src="https://github.com/user-attachments/assets/82c0ae22-9bd9-439c-99f2-330ff7914484" />
 
+# 14.texsubdansup.html
+
+biasanya ini digunakan untuk menuliskan simbol atau rumus sebuah tampilan web
+
+<img width="983" height="469" alt="image" src="https://github.com/user-attachments/assets/5fc96ff0-8d98-4cea-85ce-3bcf7a0ea936" />
 
