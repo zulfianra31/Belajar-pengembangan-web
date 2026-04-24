@@ -110,3 +110,13 @@ di sini kita bisa menaruh link apapun di dalam text atau apasaja yang kita mau a
 <img width="762" height="339" alt="image" src="https://github.com/user-attachments/assets/3af94ca5-a4fe-4a2f-8b37-f2ad81ed3045" />
 
 # 17.tabel.html
+
+di sini kita akan membuat tabel standar yang biasanya di gunakan di html biasa
+disni ada beberapa hal yang bisa di lakukan:
+1. table border untuk ketebalan dari 1 kecil hingga besar seterusnya
+2. tr yang dimana itu di gunakan kepanjangan pada data table tersebut
+3. td yang merupakan kepandangan dari isi data dan juga panjang tabel isi data tersebut
+
+<img width="1137" height="458" alt="image" src="https://github.com/user-attachments/assets/515dc7eb-4cf8-4c38-b6c5-d99363bfdbb5" />
+
+# 18.list.html
