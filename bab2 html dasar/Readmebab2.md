@@ -120,3 +120,49 @@ disni ada beberapa hal yang bisa di lakukan:
 <img width="1137" height="458" alt="image" src="https://github.com/user-attachments/assets/515dc7eb-4cf8-4c38-b6c5-d99363bfdbb5" />
 
 # 18.list.html
+disini kita membuat list yang bisanya digunakan untuk mengurutkan sesuatu
+untuk mengurutkan secara acak bisa menggunakan ul
+untuk mengurutkan dengan rapih bisa menggunakan ol
+
+<img width="882" height="552" alt="image" src="https://github.com/user-attachments/assets/0d55cc08-aae2-49c2-a2e6-50be8c93468a" />
+
+# 19.tombol.html
+
+nah disini kita bisa membuat tombol untuk kita klik dan bisa kita atur untuk apa saja
+
+
+<img width="876" height="420" alt="image" src="https://github.com/user-attachments/assets/e7431be2-a0e4-4acf-a030-babbb30277bf" />
+
+
+# styles pada html
+# 20.bgcolor.html
+
+disini kita bisa mengatur backgound color agar bisa kita atur tidak hanya putih kosong saja
+
+<img width="1536" height="722" alt="image" src="https://github.com/user-attachments/assets/44f69eb9-c72c-4d18-b459-7e871312775a" />
+
+
+# 21.textcolor.html
+
+jika kita bosan dengan text yang hanya warna hitam maka kita bisa mengubahnya dengan warna lain
+
+<img width="915" height="504" alt="image" src="https://github.com/user-attachments/assets/b97ebd11-7d87-4e3b-a37c-f848efe7c303" />
+
+
+# 22.styletextfont.html
+
+ini digunakan jika kita mau membuat tampilan font web menjadi menarik
+<img width="965" height="397" alt="image" src="https://github.com/user-attachments/assets/0bf509a9-f91c-421a-9ac7-a5a0911f683c" />
+
+
+# 23.stylefontsize.html
+
+ini apabila kita mau mengubah ukuran dari font tulisan yang kita buat
+<img width="981" height="351" alt="image" src="https://github.com/user-attachments/assets/2d290552-3c32-4e37-8f67-d92b6f80eed6" />
+
+
+# 24.stylealignment.html
+
+terakhir dari bab ini adalah membuat text yang kita mau sesuai dengan apa yang kita mau penempatannya mau itu kanan, kiri, tengah, ataupun di sesuaikan ujung ujungnya
+
+<img width="1919" height="538" alt="image" src="https://github.com/user-attachments/assets/b7068980-ce32-4f22-853f-f53a24ea522a" />
