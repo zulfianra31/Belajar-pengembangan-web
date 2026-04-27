@@ -14,6 +14,7 @@ disini untuk pertama tama kita di perkenalkan html yang sudah di berikan warna w
 
 disini kita melakukan tambahan style pada border agar terlihat menarik seperti garis dobel namun sebenarnya itu adalah batas antar sel yang di pisahkan dengan kotak sel
 
+<img width="1403" height="559" alt="image" src="https://github.com/user-attachments/assets/3b2994b2-2e8c-40c6-a6de-0007db5e13f7" />
 
 
 # 3
