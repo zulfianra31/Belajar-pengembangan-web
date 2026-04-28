@@ -17,7 +17,12 @@ disini kita melakukan tambahan style pada border agar terlihat menarik seperti g
 <img width="1403" height="559" alt="image" src="https://github.com/user-attachments/assets/3b2994b2-2e8c-40c6-a6de-0007db5e13f7" />
 
 
-# 3
+# 3.collapsedbordertabel.html
+
+menghilangkan batasan pada masing masing tabel yang mengakibatkan merubahnya menjadi tabel biasa yang tidak berjarak dan menyatu garisnya
+
+<img width="1548" height="587" alt="image" src="https://github.com/user-attachments/assets/345d2069-4768-4d0e-a83a-6de740ac6ab1" />
+
 
 # 4
 
