@@ -29,6 +29,7 @@ menghilangkan batasan pada masing masing tabel yang mengakibatkan merubahnya men
 di sini kita menggunakan padding untuk mengatur tinggi dari border ini
 bisa di bilang ini di gunakan untuk memberikan ruang pada tulisan atau semacamnya
 
+<img width="1357" height="812" alt="image" src="https://github.com/user-attachments/assets/ac4e142b-bef1-4320-b5ec-c68e7ba22c48" />
 
 
 # 5
