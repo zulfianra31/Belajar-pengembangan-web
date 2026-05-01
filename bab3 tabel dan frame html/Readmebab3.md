@@ -24,7 +24,12 @@ menghilangkan batasan pada masing masing tabel yang mengakibatkan merubahnya men
 <img width="1548" height="587" alt="image" src="https://github.com/user-attachments/assets/345d2069-4768-4d0e-a83a-6de740ac6ab1" />
 
 
-# 4
+# 4.paddingmengaturtinggi.html
+
+di sini kita menggunakan padding untuk mengatur tinggi dari border ini
+bisa di bilang ini di gunakan untuk memberikan ruang pada tulisan atau semacamnya
+
+
 
 # 5
 
