@@ -32,7 +32,12 @@ bisa di bilang ini di gunakan untuk memberikan ruang pada tulisan atau semacamny
 <img width="1357" height="812" alt="image" src="https://github.com/user-attachments/assets/ac4e142b-bef1-4320-b5ec-c68e7ba22c48" />
 
 
-# 5
+# 5.tabelberwarna.html
+
+di sini kita membuat tabel yang kita buat menjadi berwarna di dalemnya dan yang satunya kita buat tidak senagai perbedaan
+
+
+
 
 # 6
 
