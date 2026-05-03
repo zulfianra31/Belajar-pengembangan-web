@@ -36,6 +36,7 @@ bisa di bilang ini di gunakan untuk memberikan ruang pada tulisan atau semacamny
 
 di sini kita membuat tabel yang kita buat menjadi berwarna di dalemnya dan yang satunya kita buat tidak senagai perbedaan
 
+<img width="1919" height="765" alt="image" src="https://github.com/user-attachments/assets/6346718b-6861-4d7b-8ba4-3b5a80b76ec1" />
 
 
 
