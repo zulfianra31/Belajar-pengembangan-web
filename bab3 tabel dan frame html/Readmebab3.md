@@ -46,18 +46,24 @@ di sini kita membuat tabel yang kita buat menjadi berwarna di dalemnya dan yang 
 # 6.daftartakberurutan.html
 
 disini kita membuat list yang tidak berurutan menggunakan html yang nanti dia akan mengeluarkan titik sebagai pembuat listnya
+<img width="1196" height="392" alt="Screenshot 2026-05-05 223332" src="https://github.com/user-attachments/assets/9b1d5377-a984-433e-9082-59aa32ad98cb" />
+
 
 # 7.daftartblingkaran.html
 
 disini kita membuat list yang tidak berurutan menggunakan html yang nanti dia akan mengeluarkan lingkaran sebagai pembuat listnya
+<img width="1035" height="374" alt="Screenshot 2026-05-05 224254" src="https://github.com/user-attachments/assets/cb0c4de3-23f2-48ef-871e-c84828019c3e" />
+
 
 # 8.daftartbkotak.html
 
 disini kita membuat list yang tidak berurutan menggunakan html yang nanti dia akan mengeluarkan kotak sebagai pembuat listnya
+<img width="1297" height="464" alt="Screenshot 2026-05-05 224613" src="https://github.com/user-attachments/assets/87d907d1-c38a-4733-aac6-25a8aad7d5cf" />
 
 
 # 9.daftarurutanangka.html
 disini kita membuat urutan yang kita mau menggunakan angka agar rapih dari atas sampai bawah
+<img width="1069" height="396" alt="Screenshot 2026-05-05 225102" src="https://github.com/user-attachments/assets/9d8c0f2f-7140-40d1-ab23-c330054e971b" />
 
 
 
