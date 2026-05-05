@@ -4,6 +4,8 @@ di sini kita memasuki bab 3
 
 di sini kita akan membahas html di campur css sedikit demi sedikit
 
+# A. membuat tabel html
+
 # 1. tabelhtmldancss.html
 
 disini untuk pertama tama kita di perkenalkan html yang sudah di berikan warna warna berbeda agar menarik dan lebih fresh saja untuk di lihat
@@ -39,31 +41,36 @@ di sini kita membuat tabel yang kita buat menjadi berwarna di dalemnya dan yang 
 <img width="1919" height="765" alt="image" src="https://github.com/user-attachments/assets/6346718b-6861-4d7b-8ba4-3b5a80b76ec1" />
 
 
+# B. membuat daftar html
 
-# 6
+# 6.daftartakberurutan.html
 
-# 7
+disini kita membuat list yang tidak berurutan menggunakan html yang nanti dia akan mengeluarkan titik sebagai pembuat listnya
 
-# 8
+# 7.daftartblingkaran.html
 
-# 9
+disini kita membuat list yang tidak berurutan menggunakan html yang nanti dia akan mengeluarkan lingkaran sebagai pembuat listnya
 
-# 10
+# 8.daftartbkotak.html
 
-# 11
+disini kita membuat list yang tidak berurutan menggunakan html yang nanti dia akan mengeluarkan kotak sebagai pembuat listnya
 
-# 12
 
-# 13
+# 9.daftarurutanangka.html
+disini kita membuat urutan yang kita mau menggunakan angka agar rapih dari atas sampai bawah
 
-# 14
 
-# 15
 
-# 16
+# 10.menampilkandeskripsilist.html
 
-# 17
+# 11.menampilkandaftardlmdaftar.html
 
-# 18
+# 12.mengatururutanawal.html
 
-# 19
+# C. HTML IFRAME
+# 13.iframemenampilkanweblain.html
+
+# 14.iframemendenganborder.html
+
+# 15.iframelebihdari1halaman.html
+
