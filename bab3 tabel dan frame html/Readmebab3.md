@@ -99,7 +99,9 @@ disini kita menggunakan iframe untuk memunculkan web lain di web kita dengan fra
 
 # 14.iframemendenganborder.html
 
-
+disini kita menggunakan iframe untuk memunculkan web lain di web kita dengan frame yang di tambahkan pinggiran yang kita sediakan
 
 # 15.iframelebihdari1halaman.html
+
+
 
