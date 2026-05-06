@@ -79,7 +79,11 @@ disini kita bisa menampilkan list yang kita buat dengan berurutan dengan menggun
 # C. HTML IFRAME
 # 13.iframemenampilkanweblain.html
 
+disini kita menggunakan iframe untuk memunculkan web lain di web kita dengan frame yang kita sediakan
+
 # 14.iframemendenganborder.html
+
+
 
 # 15.iframelebihdari1halaman.html
 
