@@ -93,6 +93,10 @@ disini kita bisa menampilkan list yang kita buat dengan berurutan dengan menggun
 
 disini kita menggunakan iframe untuk memunculkan web lain di web kita dengan frame yang kita sediakan
 
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/542ad779-a326-41de-b351-dc468e607d30" />
+
+
 # 14.iframemendenganborder.html
 
 
