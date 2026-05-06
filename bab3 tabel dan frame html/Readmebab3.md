@@ -101,6 +101,9 @@ disini kita menggunakan iframe untuk memunculkan web lain di web kita dengan fra
 
 disini kita menggunakan iframe untuk memunculkan web lain di web kita dengan frame yang di tambahkan pinggiran yang kita sediakan
 
+<img width="1189" height="870" alt="Screenshot 2026-05-06 183425" src="https://github.com/user-attachments/assets/faa89f90-7172-4840-9812-b0b7cbcc7f18" />
+
+
 # 15.iframelebihdari1halaman.html
 
 
