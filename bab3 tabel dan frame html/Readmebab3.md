@@ -104,4 +104,12 @@ disini kita menggunakan iframe untuk memunculkan web lain di web kita dengan fra
 # 15.iframelebihdari1halaman.html
 
 
+di sini kita membuat beberapa file untuk membuat iframe dan mencoba beberapa halaman
 
+disini adalah iframe halaman 3 atau bisa di bilang yang akan menjadi tempat yang bisa melihat yang lain
+
+
+disini saat kita menekan web 1 maka akan tertuju ke file web 1
+
+
+di sini saat kita menekan web 2 maka akan tertuju ke file web 2
