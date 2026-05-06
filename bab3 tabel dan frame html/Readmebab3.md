@@ -68,10 +68,13 @@ disini kita membuat urutan yang kita mau menggunakan angka agar rapih dari atas 
 
 
 # 10.menampilkandeskripsilist.html
+disini kita bisa menampilkan deskripsi dari list yang kita buat jika ingin menjelaskan sesuatu
 
 # 11.menampilkandaftardlmdaftar.html
+disini kita bisa menampilkan daftar dari list daftar yang kita buat sebelumnya, sehingga di dalam daftar ada daftar lagi seperti prosedur
 
 # 12.mengatururutanawal.html
+disini kita bisa menampilkan list yang kita buat dengan berurutan dengan menggunakan start agar di mulai dari apa yang kita mau mau itu 1 atau pun huruf seperti A
 
 # C. HTML IFRAME
 # 13.iframemenampilkanweblain.html
