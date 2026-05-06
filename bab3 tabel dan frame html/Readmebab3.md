@@ -70,11 +70,23 @@ disini kita membuat urutan yang kita mau menggunakan angka agar rapih dari atas 
 # 10.menampilkandeskripsilist.html
 disini kita bisa menampilkan deskripsi dari list yang kita buat jika ingin menjelaskan sesuatu
 
+
+<img width="1057" height="504" alt="Screenshot 2026-05-06 143207" src="https://github.com/user-attachments/assets/1cfd0aa5-653e-4fa2-8be1-062954f6c788" />
+
 # 11.menampilkandaftardlmdaftar.html
+
 disini kita bisa menampilkan daftar dari list daftar yang kita buat sebelumnya, sehingga di dalam daftar ada daftar lagi seperti prosedur
+
+
+<img width="889" height="522" alt="Screenshot 2026-05-06 143217" src="https://github.com/user-attachments/assets/95726452-0323-4173-8701-c5047a33c211" />
+
+
 
 # 12.mengatururutanawal.html
 disini kita bisa menampilkan list yang kita buat dengan berurutan dengan menggunakan start agar di mulai dari apa yang kita mau mau itu 1 atau pun huruf seperti A
+
+<img width="1530" height="587" alt="Screenshot 2026-05-06 143228" src="https://github.com/user-attachments/assets/a6e95ff8-e557-4709-bc54-8c355ed8f40f" />
+
 
 # C. HTML IFRAME
 # 13.iframemenampilkanweblain.html
