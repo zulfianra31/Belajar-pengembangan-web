@@ -111,8 +111,13 @@ di sini kita membuat beberapa file untuk membuat iframe dan mencoba beberapa hal
 
 disini adalah iframe halaman 3 atau bisa di bilang yang akan menjadi tempat yang bisa melihat yang lain
 
+<img width="1258" height="1019" alt="Screenshot 2026-05-06 184717" src="https://github.com/user-attachments/assets/9a1240c8-fdee-4ddf-871a-6cbc0ef46812" />
 
 disini saat kita menekan web 1 maka akan tertuju ke file web 1
 
+<img width="1145" height="444" alt="Screenshot 2026-05-06 184725" src="https://github.com/user-attachments/assets/48d684c1-3563-446a-abe4-0d264e53dbf1" />
 
 di sini saat kita menekan web 2 maka akan tertuju ke file web 2
+
+<img width="1321" height="696" alt="Screenshot 2026-05-06 184736" src="https://github.com/user-attachments/assets/dd00863d-3fe0-4a01-a8a9-dcb93d8f1dba" />
+
